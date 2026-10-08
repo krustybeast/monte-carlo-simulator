@@ -16,7 +16,7 @@
 # -----------------------------------------------------------------------------
 # SETTINGS - change these to try different scenarios
 # -----------------------------------------------------------------------------
-TICKER = "U11.SI"            # The stock's symbol on Yahoo Finance ("D05.SI" is DBS)
+TICKER = "U11.SI"         # The stock's symbol on Yahoo Finance ("D05.SI" is DBS)
 STARTING_AMOUNT = 500     # Money you invest on day one
 MONTHLY_AMOUNT = 500         # Money you add every month
 YEARS = 20                   # How many years you keep investing
